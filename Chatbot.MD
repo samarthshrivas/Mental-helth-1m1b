@@ -1,5 +1,5 @@
 # CHATBOT
-### -Samarth Shrivas
+### By Samarth Shrivas
 ## Trigger Phrase:
     "I'm feeling really overwhelmed"
     "I'm struggling with anxiety"
